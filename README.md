@@ -1,6 +1,6 @@
 Sebastian Cojocariu 311CB UPB ACS	
 
-				                               Generic HashTable Data Structure
+				          Generic HashTable Data Structure
 
 	Am inceput prin a creea functiile de afisare pentru student,materie,cheie de tip intreg si cheie de tip string(Afisare_Student,Afisare_Materie,Afisare_cheie_s,Afisare_cheie_d).Apoi,am creat functiile pentru comparare chei de tip intreg(f_comp_cheie_d),respectiv de tip string (f_comp_cheie_s).
   
